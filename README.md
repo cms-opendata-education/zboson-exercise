@@ -4,7 +4,7 @@ for a simple particle physics data-analysis. There are two easy ways to get the 
 
 ### 1) Opening the exercise with Binder
 
-With Binder it is easy to make Jupyter Notebook files interactive in the browser without any installing. Just click the badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/zboson-exercise/master) to create the Binder environment. When Binder has finished building the interactive environment, it will automatically show the contents of the repository. The
+With Binder it is easy to make Jupyter Notebook files interactive in the browser without any installing. Just open the badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/zboson-exercise/master)  in the new browser tab to create the Binder environment. When Binder has finished building the interactive environment, it will automatically show the contents of the repository. The
 exercise can be started by clicking the "Exercise.ipynb" file in the Binder environment.
 
 If the badge isn't working, you can set the Binder environment manually. Go to <https://mybinder.org/> and paste the URL of this repository (https://github.com/cms-opendata-education/zboson-exercise)
